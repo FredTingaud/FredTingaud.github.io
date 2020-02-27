@@ -4,8 +4,6 @@ title: Talking at Technical Conferences Part 2
 categories: [CPPP, Speaking, CPP]
 ---
 
-# The Genesis
-
 *What should I talk about?*
 
 That is probably the main blocking point for new speakers. If you are not a renowned world expert about any given subject, you might have a hard time coming up with an idea about what to talk about because you don't feel legitimate to give a presentation.

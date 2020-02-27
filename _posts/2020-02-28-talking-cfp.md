@@ -4,8 +4,6 @@ title: Talking at Technical Conferences Part 3
 categories: [CPPP, Speaking, CPP]
 ---
 
-# The Proposal
-
 *How can I have my talk accepted?*
 
 For all the conference to which I have sent talks or be part of the program committee, the process was always about the same. A call for proposal/paper/submission a few months before the conference, then suspense while the program committee reviews everything, then the official answer from the committee a few months before the conference.

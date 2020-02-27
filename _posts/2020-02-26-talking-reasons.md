@@ -12,13 +12,11 @@ But there is a high barrier for entry into public speaking. People are not sure 
 
 In this series of posts, I'd like to give my personal experience and point of view about it, in the hope that it can help some people who are thinking about giving it a try. I'm by no mean an expert about public speaking. But as somebody who has given a few talks over the last two years, organizes the French C++ Meetups, participated in a few conference's program committees and organizes a C++ conference, I have some experience with writing and reading talk proposals as well as giving and listening to talks.
 
-# The Reasons
-
 *Should I even give a talk?*
 
 Before my first public talk, I talked with a colleague who had given talks that I really enjoyed. He told me that he was retiring from public speaking because he used to give talks for "the wrong reasons" and now that he had realized that, he was no longer sure he was willing to spend the energy it requires to give a good talk. Fortunately, two years after he started giving talks again, so I guess he did find the good reasons for himself.
 
-## The Bad Reasons
+## The "Bad" Reasons
 
 Everyone gives talk for their own reasons and I don't intend to judge or stop anybody based on them. But I agree with that colleague that there are bad reasons to give a talk. Not because you shouldn't pursue them, but because public speaking will not help much with them.
 
@@ -36,7 +34,7 @@ The programming field is both extremely complex and vast. The more we explore it
 If you suffer from it, giving public talks will not be a magic cure. It can even make things worst, as people will congratulate you and treat you as the expert you are while the sum of missing knowledge you perceive will have increased from the expertise you will have gained.
 Suffering from self-confidence issues should not stop you from giving talks, but at the end of the day, you will still need to address the problem or continue to live with it.
 
-## The Good Reasons
+## The "Good" Reasons
 
 As a public speaker and somebody who pushes other people to give talks, I of course also think that there are some very good reasons to give talks at conferences.
 
