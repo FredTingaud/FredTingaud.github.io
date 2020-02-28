@@ -44,7 +44,7 @@ As a public speaker and somebody who pushes other people to give talks, I of cou
 
 Obviously, if you talk at a conference, it means you also get to attend said conference. And probably at little or no cost. That by itself is a very good reason. Most talks nowadays can be watched online, but that doesn't make conferences less interesting to attend in person. Some talks are experienced very differently when you have the chance to see them live. Most people will not find the time to watch that many talks if they don't have the dedicated time that a conference gives you.
 
-But more importantly, the time between the talks is what makes attending conferences so valuable. You get to meet talented people around a shared interest and that leads to great conversations and encounters. If you are part of online communities, conferences are also a privileged time to meet in person friends that you made online. The highlight of the conferences I attend as a speaker is always to meet the marvelous people that I know from `#include<C++>`.
+But more importantly, the time between the talks is what makes attending conferences so valuable. You get to meet talented people around a shared interest and that leads to great conversations and encounters. If you are part of online communities, conferences are also a privileged time to meet in person friends that you made online. The highlight of the conferences I attend as a speaker is always to meet the marvelous people that I know from [#include<C++>](https://www.includecpp.org).
 
 ### Giving Back to the Community
 
