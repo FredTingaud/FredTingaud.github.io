@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talking at Technical Conferences Part 3
-categories: [CPPP, Speaking, CPP]
+categories: [CPPP, Speaking, C++, Talking]
 ---
 
 *How can I have my talk accepted?*
