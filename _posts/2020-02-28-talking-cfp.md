@@ -28,7 +28,9 @@ The abstract is a short text where you present your talk to the attendees. It wi
 
 It should first contain an explanation of what the talk is about *written for your target attendee*. For example, if your talk is an introduction to sorting algorithm you might not want to name all the algorithms you will mention, because the people you are targeting have no idea what they are!
 
-As important as explaining what the talk is about, your abstract should also explain *why your target attendee cares*. If they have no knowledge of your subject, you need to explain why your talk is relevant to them.
+As important as explaining what the talk is about, your abstract should also explain *why your target attendee cares* about the subject. If you don't expect them to have knowledge of your subject, you need to explain to them why your talk is relevant to their interest.
+
+By reading your abstract, an attendee should also find what the takeaway from your talk will be for them. It can be in a very litteral way by saying something along the line of "the takeaway from this presentation will be a basic understanding of sorting algorithms" or it can be something more subtle. If attendees can know in advance what they will learn in your talk, they will be able to make a better decision on whether they should attend.
 
 My talk "Clang Refactoring at Large Scale" was refused by 4 different conferences. Just before proposing it a 5th and last time, I posted it on #include<C++> for advices and somebody mentioned to me that they already saw a talk about this exact subject. I started writing a long answer explaining how my talk was actually different because of my approach... Then instead of posting the answer, I integrated its content in the abstract. That got me to realize the title was also badly chosen. And without changing a line in the actual talk, I got it accepted to 3 conferences as "Clang Based Refactoring - How to Refactor Millions of Line of Code Without Alienating your Colleagues". Which is to say that if your talk takes an original approach or angle, or is different from other talks about similar subjects, *make sure that it appears in your abstract*. 
 
@@ -44,7 +46,7 @@ And secondly, how far in the details you want to go. If you are giving a talk ab
 
 ## The Bio
 
-The bio is the most dreaded question of the CfP for many speakers, although it is by far the less important one. It should be written at the third person because of reasons (don't ask me!).
+The bio is the most dreaded question of the CfP for many speakers, although it is by far the less important one. It should be written in third person because of reasons (don't ask me!).
 
 I said attendees will only have access to the title and abstract to choose which talk they want to see, but that is not completely true. They can also look at your bio...
 
@@ -62,3 +64,21 @@ Many conferences are looking for new program committee members. It is in my opin
 There is one thing that you have to do to have your talk accepted: propose a talk!
 
 So even if you are not sure of yourself and might have an imperfect proposal, send it. You have very little to lose except for a little time.
+
+## The Checklist
+
+If you just wrote a CfP, here is a checklist of what you just read, so that you can go over your proposal and make sure everything is either done or left unchecked on purpose (rules are made to be broken, but consciously).
+
+- [ ] The title states what the talk is about
+- [ ] The abstract explains what the talk is about
+- [ ] The abstract is fully understandable by the target audience
+- [ ] The abstract states why the target audience should care about the subject
+- [ ] The abstract states what the main takeaway(s) will be
+- [ ] The abstract shows how this talk is different from other talks on the subject
+- [ ] The abstract states what the target audience is and the prerequisites
+- [ ] The outline shows the structure of your talk
+- [ ] The outline shows the main ideas you want to present
+- [ ] The outline shows how deep in the details your talk will go
+- [ ] The bio is written in third person
+- [ ] The bio shows from which perspective you know the subject
+- [ ] The proposal is posted
