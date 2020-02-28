@@ -32,7 +32,7 @@ As important as explaining what the talk is about, your abstract should also exp
 
 By reading your abstract, an attendee should also find what the takeaway from your talk will be for them. It can be in a very litteral way by saying something along the line of "the takeaway from this presentation will be a basic understanding of sorting algorithms" or it can be something more subtle. If attendees can know in advance what they will learn in your talk, they will be able to make a better decision on whether they should attend.
 
-My talk "Clang Refactoring at Large Scale" was refused by 4 different conferences. Just before proposing it a 5th and last time, I posted it on [`#include<C++>`](https://www.includecpp.org) for advices and somebody mentioned to me that they already saw a talk about this exact subject. I started writing a long answer explaining how my talk was actually different because of my approach... Then instead of posting the answer, I integrated its content in the abstract. That got me to realize the title was also badly chosen. And without changing a line in the actual talk, I got it accepted to 3 conferences as "Clang Based Refactoring - How to Refactor Millions of Line of Code Without Alienating your Colleagues". Which is to say that if your talk takes an original approach or angle, or is different from other talks about similar subjects, *make sure that it appears in your abstract*. 
+My talk "Clang Refactoring at Large Scale" was refused by 4 different conferences. Just before proposing it a 5th and last time, I posted it on [#include<C++>](https://www.includecpp.org) for advices and somebody mentioned to me that they already saw a talk about this exact subject. I started writing a long answer explaining how my talk was actually different because of my approach... Then instead of posting the answer, I integrated its content in the abstract. That got me to realize the title was also badly chosen. And without changing a line in the actual talk, I got it accepted to 3 conferences as "Clang Based Refactoring - How to Refactor Millions of Line of Code Without Alienating your Colleagues". Which is to say that if your talk takes an original approach or angle, or is different from other talks about similar subjects, *make sure that it appears in your abstract*. 
 
 Finally, you might also want to indicate clearly who you are targeting. If you give a talk about sorting algorithms, do you expect attendees to have some algorithmic knowledge and for example know about algorithmic complexity? Mentioning it can avoid either people not understanding the talk or be afraid to attend.
 
@@ -66,16 +66,16 @@ So even if you are not sure of yourself and might have an imperfect proposal, se
 
 If you just wrote a CfP, here is a checklist of what you just read, so that you can go over your proposal and make sure everything is either done or left unchecked on purpose (rules are made to be broken, but consciously).
 
- [ ] The title states what the talk is about
- [ ] The abstract explains what the talk is about
- [ ] The abstract is fully understandable by the target audience
- [ ] The abstract states why the target audience should care about the subject
- [ ] The abstract states what the main takeaway(s) will be
- [ ] The abstract shows how this talk is different from other talks on the subject
- [ ] The abstract states what the target audience is and the prerequisites
- [ ] The outline shows the structure of your talk
- [ ] The outline shows the main ideas you want to present
- [ ] The outline shows how deep in the details your talk will go
- [ ] The bio is written in third person
- [ ] The bio shows from which perspective you know the subject
- [ ] The proposal is posted
+- [ ] The title states what the talk is about
+- [ ] The abstract explains what the talk is about
+- [ ] The abstract is fully understandable by the target audience
+- [ ] The abstract states why the target audience should care about the subject
+- [ ] The abstract states what the main takeaway(s) will be
+- [ ] The abstract shows how this talk is different from other talks on the subject
+- [ ] The abstract states what the target audience is and the prerequisites
+- [ ] The outline shows the structure of your talk
+- [ ] The outline shows the main ideas you want to present
+- [ ] The outline shows how deep in the details your talk will go
+- [ ] The bio is written in third person
+- [ ] The bio shows from which perspective you know the subject
+- [ ] The proposal is posted
