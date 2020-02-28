@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talking at Technical Conferences Part 1
-categories: [CPPP, Speaking, CPP]
+categories: [CPPP, Speaking, C++, Talking]
 ---
 
 We need more speakers!
