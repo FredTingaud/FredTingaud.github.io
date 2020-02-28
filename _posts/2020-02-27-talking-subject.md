@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talking at Technical Conferences Part 2
-categories: [CPPP, Speaking, CPP]
+categories: [CPPP, Speaking, C++, Talking]
 ---
 
 *What should I talk about?*
