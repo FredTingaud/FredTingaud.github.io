@@ -8,7 +8,7 @@ categories: [CPPP, Speaking, CPP]
 
 That is probably the main blocking point for new speakers. If you are not a renowned world expert about any given subject, you might have a hard time coming up with an idea about what to talk about because you don't feel legitimate to give a presentation.
 
-We need more people explaining things than just the few topmost experts. And talk attendees just need someone who knows a subject more than them and who can help them fill this knowledge gap with correct and well explained information. And it is very probable that you know some subjects more than many of the attendees, you just need to identify these subjects.
+We need more people explaining things than just the few topmost experts. And talk attendees just need someone who knows more about a subject than them and who can help them fill this knowledge gap with correct and well explained information. And it is very probable that you know some subjects more than many of the attendees, you just need to identify these subjects.
 
 
 ## Something you created
@@ -47,4 +47,4 @@ I would not actually recommend to do that for your first talk, unless you are th
 
 ## Anything Else
 
-These are just a few leads you can follow, to find your talk idea. There are probably many other kind of prompts you could use to find your talk idea, don't constraint yourself!
+These are just a few leads you can follow to find your talk idea. There are probably many other kind of prompts you could use to find your talk idea. Don't limit yourself!
